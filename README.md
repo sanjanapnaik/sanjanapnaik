@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://github.com/sanjanapnaik/my-assets1-/blob/main/icons8-javascript-48.png" alt="js" width="40" height="40"/> </a
   <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sanjanapnaik/my-assets1-/blob/main/icons8-python-48.png" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/MT/" target="_blank" rel="noreferrer"> <img src="https://github.com/sanjanapnaik/my-assets1-/blob/main/manual.png" alt="MT" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sanjanapnaik/my-assets1-/blob/main/database.png" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.w3.org/excel/" target="_blank" rel="noreferrer"> <img src="https://github.com/sanjanapnaik/my-assets1-/blob/main/excel.png" alt="excel" width="40" height="40"/> </a>
 
