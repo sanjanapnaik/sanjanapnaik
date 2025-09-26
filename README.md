@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋<h1 align="center">Hi 👋, I'm SANJANA NAIK</h1>
+<h3 align="center">A passionate in FRONTEND TECHNOLOGY from India</h3>
 
 <!--
 **sanjanapnaik/sanjanapnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
