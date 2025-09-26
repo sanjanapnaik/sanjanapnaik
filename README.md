@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjana-naik-59a301262/" target="blank"><img align="center" src="https://github.com/sanjanapnaik/my-assets1-/blob/main/icons8-linkedin-48.png" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/homepage" target="_blank"><img align="center" src="https://www.naukri.com/mnjuser/homepagehttps://github.com/sanjanapnaik/my-assets1-/blob/main/naukri.jpg" alt="naukri" height="100" width="100"/></a>
+<a href="https://www.naukri.com/mnjuser/homepage" target="_blank"><img align="center" src="https://github.com/sanjanapnaik/my-assets1-/blob/main/naukrii.jpg" alt="naukri" height="100" width="100"/></a>
   <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-indapply-SmartApply&_ga=2.3318832.1001169202.1758709669-1560665365.1738902267" target="_blank"><img align="center" src="https://github.com/divyaaaaaaaaa/my-assets1-/blob/main/indeed.png" alt="indeed" height="60" width="30"></a>
 </p> 
 
